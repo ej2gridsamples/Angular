@@ -1,0 +1,5 @@
+Incident - I236350
+
+Render TextBox instead of numeric container in Pager
+
+https://stackblitz.com/edit/angular-236350-paget-eeljy1?file=app.component.ts
