@@ -1,0 +1,3 @@
+In the below sample, we have bind data to grid using observables and perform grid actions such as paging, sorting, filtering etc.,
+
+https://stackblitz.com/edit/angular-ntgj93-j9ubcg?file=package.json
