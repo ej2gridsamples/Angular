@@ -1,0 +1,3 @@
+In the below sample, we have rendered checkbox for each group caption and select the all corresponding sub items.
+
+https://stackblitz.com/edit/angular-fpstq6-ofhzeo?file=app.component.ts 
