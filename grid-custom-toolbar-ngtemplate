@@ -1,0 +1,3 @@
+In the below sample, we have rendered custom component(checbox) using template property of toolbar component in Grid
+
+sample : https://stackblitz.com/edit/angular-ekft7w-ag6pp9?file=app.component.html
