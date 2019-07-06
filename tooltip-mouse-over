@@ -1,0 +1,3 @@
+In the below sample, we have rendered tooltip and based on the condition we have dynamically changed the content of the ttooltip in mouseOver event.
+
+sample : https://stackblitz.com/edit/angular-ebe-tooltips-w6wykm?file=src/app/app.component.ts
