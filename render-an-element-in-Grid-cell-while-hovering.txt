@@ -1,0 +1,3 @@
+In the below sample, we have render the button in last cell while hover the particular Grid row (like as Gmail behavior)
+
+https://stackblitz.com/edit/angular-hjfcyi?file=app.component.ts
