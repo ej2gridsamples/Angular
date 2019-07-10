@@ -1,0 +1,3 @@
+
+
+Ignore the Column Persist: https://stackblitz.com/edit/angular-gcktpp?file=src/app/app.component.ts 
